@@ -2,28 +2,6 @@
 🤖 Automate your WG-Gesucht apartment search - automatically monitors listings and sends personalized messages to new matches. Powered by Python, Selenium, and OpenAI.
 
 
-
-Reviewing the codebase to understand the bot's functionality, then drafting the documentation.
-
-
-[7 tools called]
-
-
-Exploring the `src` directory to understand the full functionality:
-
-
-[7 tools called]
-
-
-Drafting a README that's specific and easy to follow:
-
-
-[1 tool called]
-
-
-Here's a README that's specific and easy to follow:
-
-```markdown
 # WG-Gesucht Bot 🤖
 
 *Let's face it, looking for a new WG (shared apartment) is a pain. You spend hours refreshing pages, writing the same message over and over, and still miss the best listings. This bot automates all of that for you.*
