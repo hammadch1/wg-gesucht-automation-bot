@@ -1,0 +1,14 @@
+message_file: "message.txt"
+wg_gesucht_credentials:
+  email: ""
+  password: ""
+url: ""
+run_headless: false
+min_listing_length_months: 3
+attach_schufa: false
+openai_key: ""
+#custom_condition: "user_name not in 'John Doe'" # Python expression
+
+# Optional (should work without these in most cases)
+geckodriver_path: "/opt/homebrew/bin/geckodriver"
+firefox_path: "/opt/homebrew/bin/firefox"
